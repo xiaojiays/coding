@@ -1,0 +1,72 @@
+<div class="col left-column">
+	<div class="tab">MySQL 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="MySQL 教程" href="/mysql/mysql-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			MySQL 教程			</a>
+						<a target="_top" title="MySQL 安装" href="/mysql/mysql-install.html">
+			MySQL 安装			</a>
+						<a target="_top" title="MySQL 管理" href="/mysql/mysql-administration.html">
+			MySQL 管理			</a>
+						<a target="_top" title="MySQL PHP 语法" href="/mysql/mysql-php-syntax.html">
+			MySQL PHP 语法			</a>
+						<a target="_top" title="MySQL 连接" href="/mysql/mysql-connection.html">
+			MySQL 连接			</a>
+						<a target="_top" title="MySQL 创建数据库" href="/mysql/mysql-create-database.html">
+			MySQL 创建数据库			</a>
+						<a target="_top" title="MySQL 删除数据库" href="/mysql/mysql-drop-database.html">
+			MySQL 删除数据库			</a>
+						<a target="_top" title="MySQL 选择数据库" href="/mysql/mysql-select-database.html">
+			MySQL 选择数据库			</a>
+						<a target="_top" title="MySQL 数据类型" href="/mysql/mysql-data-types.html">
+			MySQL 数据类型			</a>
+						<a target="_top" title="MySQL 创建数据表" href="/mysql/mysql-create-tables.html">
+			MySQL 创建数据表			</a>
+						<a target="_top" title="MySQL 删除数据表" href="/mysql/mysql-drop-tables.html">
+			MySQL 删除数据表			</a>
+						<a target="_top" title="MySQL 插入数据" href="/mysql/mysql-insert-query.html">
+			MySQL 插入数据			</a>
+						<a target="_top" title="MySQL 查询数据" href="/mysql/mysql-select-query.html">
+			MySQL 查询数据			</a>
+						<a target="_top" title="MySQL where 子句" href="/mysql/mysql-where-clause.html">
+			MySQL where 子句			</a>
+						<a target="_top" title="MySQL UPDATE 查询" href="/mysql/mysql-update-query.html">
+			MySQL UPDATE 查询			</a>
+						<a target="_top" title="MySQL DELETE 语句" href="/mysql/mysql-delete-query.html">
+			MySQL DELETE 语句			</a>
+						<a target="_top" title="MySQL LIKE 子句" href="/mysql/mysql-like-clause.html">
+			MySQL LIKE 子句			</a>
+						<a target="_top" title="MySQL 排序" href="/mysql/mysql-order-by.html">
+			MySQL 排序			</a>
+			<a target="_top" title="MySQL Group by 语句" href="mysql-group-by-statement.html"> MySQL 分组 </a>			<a target="_top" title="Mysql 连接的使用" href="/mysql/mysql-join.html">
+			Mysql 连接的使用			</a>
+						<a target="_top" title="MySQL NULL 值处理" href="/mysql/mysql-null.html">
+			MySQL NULL 值处理			</a>
+						<a target="_top" title="MySQL 正则表达式" href="/mysql/mysql-regexp.html">
+			MySQL 正则表达式			</a>
+						<a target="_top" title="MySQL 事务" href="/mysql/mysql-transaction.html">
+			MySQL 事务			</a>
+						<a target="_top" title="MySQL ALTER命令" href="/mysql/mysql-alter.html">
+			MySQL ALTER命令			</a>
+						<a target="_top" title="MySQL 索引" href="/mysql/mysql-index.html">
+			MySQL 索引			</a>
+						<a target="_top" title="MySQL 临时表" href="/mysql/mysql-temporary-tables.html">
+			MySQL 临时表			</a>
+						<a target="_top" title="MySQL 复制表" href="/mysql/mysql-clone-tables.html">
+			MySQL 复制表			</a>
+						<a target="_top" title="MySQL 元数据" href="/mysql/mysql-database-info.html">
+			MySQL 元数据			</a>
+						<a target="_top" title="MySQL 序列使用" href="/mysql/mysql-using-sequences.html">
+			MySQL 序列使用			</a>
+						<a target="_top" title="MySQL 处理重复数据" href="/mysql/mysql-handling-duplicates.html">
+			MySQL 处理重复数据			</a>
+						<a target="_top" title="MySQL 及 SQL 注入" href="/mysql/mysql-sql-injection.html">
+			MySQL 及 SQL 注入			</a>
+						<a target="_top" title="MySQL 导出数据" href="/mysql/mysql-database-export.html">
+			MySQL 导出数据			</a>
+						<a target="_top" title="MySQL 导入数据" href="/mysql/mysql-database-import.html">
+			MySQL 导入数据			</a>
+				
+		</div>
+	</div>	
+</div>

@@ -1,0 +1,132 @@
+<div class="col left-column">
+<div class="tab">JavaScript 参考手册</div>
+<div class="sidebar-box gallery-list">
+<div class="design" id="leftcolumn">
+<a target="_top" title="JavaScript 和 HTML DOM 参考手册" href="/jsref/jsref-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+概览 </a>
+<br><h2 class="left"><span class="left_h2">JavaScript</span> 对象</h2> <a target="_top" title="JavaScript Array 对象" href="/jsref/jsref-obj-array.html">
+JavaScript Array 对象 </a>
+<a target="_top" title="JavaScript Boolean 对象" href="/jsref/jsref-obj-boolean.html">
+JavaScript Boolean 对象 </a>
+<a target="_top" title="JavaScript Date 对象" href="/jsref/jsref-obj-date.html">
+JavaScript Date 对象 </a>
+<a target="_top" title="JavaScript Math 对象" href="/jsref/jsref-obj-math.html">
+JavaScript Math 对象 </a>
+<a target="_top" title="JavaScript Number 对象" href="/jsref/jsref-obj-number.html">
+JavaScript Number 对象 </a>
+<a target="_top" title="JavaScript String 对象" href="/jsref/jsref-obj-string.html">
+JavaScript String 对象 </a>
+<a target="_top" title="JavaScript RegExp 对象" href="/jsref/jsref-obj-regexp.html">
+JavaScript RegExp 对象 </a>
+<a target="_top" title="JavaScript 全局属性/函数" href="/jsref/jsref-obj-global.html">
+JavaScript 全局属性/函数 </a>
+<a target="_top" title="JavaScript 运算符" href="jsref-operators.html"> JavaScript 运算符 </a><br><h2 class="left"><span class="left_h2">Browser</span> 对象</h2> <a target="_top" title="Window 对象" href="/jsref/obj-window.html">
+Window 对象 </a>
+<a target="_top" title="Navigator 对象" href="/jsref/obj-navigator.html">
+Navigator 对象 </a>
+<a target="_top" title="Screen 对象" href="/jsref/obj-screen.html">
+Screen 对象 </a>
+<a target="_top" title="History 对象" href="/jsref/obj-history.html">
+History 对象 </a>
+<a target="_top" title="Location 对象" href="/jsref/obj-location.html">
+Location 对象 </a>
+<br><h2 class="left"><span class="left_h2">DOM</span> 对象</h2> <a target="_top" title="HTML DOM Document 对象" href="/jsref/dom-obj-document.html">
+HTML DOM Document 对象 </a>
+<a target="_top" title="HTML DOM 元素对象" href="/jsref/dom-obj-all.html">
+HTML DOM 元素对象 </a>
+<a target="_top" title="HTML DOM 属性对象" href="/jsref/dom-obj-attributes.html">
+HTML DOM 属性对象 </a>
+<a target="_top" title="HTML DOM 事件对象" href="/jsref/dom-obj-event.html">
+HTML DOM 事件对象 </a>
+<br><h2 class="left"><span class="left_h2">HTML </span>对象</h2> <a target="_top" title="HTML DOM Anchor 对象" href="/jsref/dom-obj-anchor.html">
+&lt;a&gt; </a>
+<a target="_top" title="HTML DOM Area 对象" href="/jsref/dom-obj-area.html">
+&lt;area&gt; </a>
+<a target="_top" href="dom-obj-audio.html"> &lt;audio&gt; </a> <a target="_top" title="HTML DOM Base 对象" href="/jsref/dom-obj-base.html">
+&lt;base&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-blockquote.html">&lt;blockquote&gt; </a> <a target="_top" title="HTML DOM Body 对象" href="/jsref/dom-obj-body.html">
+&lt;body&gt; </a>
+<a target="_top" title="HTML DOM Button 对象" href="/jsref/dom-obj-pushbutton.html">
+&lt;button&gt; </a>
+<a target="_top" href="dom-obj-canvas.html" class="menu_dom_obj_col">&lt;canvas&gt;</a>
+<a target="_top" href="dom-obj-col.html" class="menu_dom_obj_col">&lt;col&gt;</a>
+<a target="_top" href="dom-obj-colgroup.html" class="menu_dom_obj_colgroup">&lt;colgroup&gt;</a>
+<a target="_top" href="dom-obj-datalist.html" class="menu_dom_obj_col">&lt;datalist&gt;</a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-del.html">&lt;del&gt;</a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-details.html">&lt;details&gt;</a>
+<a target="_top" href="dom-obj-dialog.html" class="menu_dom_obj_col">&lt;dialog&gt;</a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-embed.html">&lt;embed&gt;</a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-fieldset.html">&lt;fieldset&gt;</a> <a target="_top" title="HTML DOM Form 对象" href="/jsref/dom-obj-form.html">
+&lt;form&gt; </a>
+<a target="_top" title="HTML DOM Frame 和 IFrame 对象" href="/jsref/dom-obj-frame.html">
+&lt;iframe&gt; </a>
+<a target="_top" title="HTML DOM Frameset 对象" href="/jsref/dom-obj-frameset.html">
+&lt;frameset &gt; </a>
+<a target="_top" title="HTML DOM Image 对象" href="/jsref/dom-obj-image.html">
+&lt;img&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-ins.html">
+&lt;ins&gt; </a> <a target="_top" title="HTML DOM Button 对象" href="/jsref/dom-obj-button.html">
+&lt;input&gt; - button </a>
+<a target="_top" title="HTML DOM Checkbox 对象" href="/jsref/dom-obj-checkbox.html">
+&lt;input&gt; - checkbox </a>
+<a target="_top" href="dom-obj-color.html"> &lt;input&gt; - color</a>
+<a target="_top" href="dom-obj-date.html"> &lt;input&gt; - date</a>
+<a target="_top" href="dom-obj-datetime.html"> &lt;input&gt; - datetime</a>
+<a target="_top" href="dom-obj-datetime-local.html"> &lt;input&gt; - datetime-local</a>
+<a target="_top" href="dom-obj-email.html"> &lt;input&gt; - email</a> <a target="_top" title="HTML DOM FileUpload 对象" href="/jsref/dom-obj-fileupload.html">
+&lt;input&gt; - file </a>
+<a target="_top" title="HTML DOM Hidden 对象" href="/jsref/dom-obj-hidden.html">
+&lt;input&gt; - hidden </a>
+<a target="_top" href="dom-obj-image.html"> &lt;input&gt; - image</a>
+<a target="_top" href="dom-obj-month.html"> &lt;input&gt; - month</a>
+<a target="_top" href="dom-obj-number.html"> &lt;input&gt; - number</a>
+<a target="_top" href="dom-obj-range.html"> &lt;input&gt; - range</a> <a target="_top" title="HTML DOM Password 对象" href="/jsref/dom-obj-password.html">
+&lt;input&gt; - password </a>
+<a target="_top" title="HTML DOM Radio 对象" href="/jsref/dom-obj-radio.html">
+&lt;input&gt; - radio </a>
+<a target="_top" title="HTML DOM Reset 对象" href="/jsref/dom-obj-reset.html">
+&lt;input&gt; - reset </a>
+<a target="_top" href="dom-obj-search.html"> &lt;input&gt; - search</a> <a target="_top" title="HTML DOM Submit 对象" href="/jsref/dom-obj-submit.html">
+&lt;input&gt; - submit </a>
+<a target="_top" title="HTML DOM Input Text 对象" href="/jsref/dom-obj-text.html">
+&lt;input&gt; - text </a>
+<a target="_top" href="dom-obj-input-time.html"> &lt;input&gt; - time </a>
+<a target="_top" href="dom-obj-url.html"> &lt;input&gt; - url </a>
+<a target="_top" href="dom-obj-week.html"> &lt;input&gt; - week </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-keygen.html"> &lt;keygen&gt; </a> <a target="_top" title="HTML DOM Link 对象" href="/jsref/dom-obj-link.html">
+&lt;link&gt; </a>
+<a target="_top" href="dom-obj-label.html"> &lt;label&gt; </a>
+<a target="_top" href="dom-obj-legend.html"> &lt;legend&gt; </a>
+<a target="_top" href="dom-obj-li.html"> &lt;li&gt; </a>
+<a target="_top" href="dom-obj-map.html"> &lt;map&gt; </a>
+<a target="_top" href="dom-obj-menu.html"> &lt;menu&gt; </a>
+<a target="_top" href="dom-obj-menuItem.html"> &lt;menuItem&gt; </a> <a target="_top" title="HTML DOM Meta 对象" href="/jsref/dom-obj-meta.html">
+&lt;meta&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-meter.html">&lt;meter&gt;</a> <a target="_top" title="HTML DOM Object 对象" href="/jsref/dom-obj-object.html">
+&lt;object&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-ol.html">&lt;ol&gt;</a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-optgroup.html">&lt;optgroup&gt;</a> <a target="_top" title="HTML DOM Option 对象" href="/jsref/dom-obj-option.html">
+&lt;option&gt; </a>
+<a target="_top" href="dom-obj-param.html">&lt;param&gt;</a>
+<a target="_top" href="dom-obj-progress.html"> &lt;progress&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-quote.html"> &lt;q&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-script.html"> &lt;script&gt; </a>
+<a target="_top" title="HTML DOM Select 对象" href="/jsref/dom-obj-select.html">
+&lt;select&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-source.html">&lt;source&gt;</a> <a target="_top" title="HTML DOM Style 对象" href="/jsref/dom-obj-style.html">
+&lt;style&gt; </a>
+<a target="_top" title="HTML DOM Table 对象" href="/jsref/dom-obj-table.html">
+&lt;table&gt; </a>
+<a target="_top" title="HTML DOM td / th 对象" href="/jsref/dom-obj-tabledata.html">
+&lt;td&gt; </a>
+<a target="_top" href="http://www.w3cschool.cc/jsref/dom-obj-tablehead.html">&lt;th&gt;</a> <a target="_top" title="HTML DOM tr 对象" href="/jsref/dom-obj-tablerow.html">
+&lt;tr&gt; </a>
+<a target="_top" title="HTML DOM Textarea 对象" href="/jsref/dom-obj-textarea.html">
+&lt;textarea&gt; </a>
+<a target="_top" title="HTML DOM Title 对象" href="dom-obj-title.html">&lt;title&gt;</a>
+<a target="_top" title="HTML DOM Time对象" href="dom-obj-time.html">&lt;time&gt;</a>
+<a target="_top" title="HTML DOM Track对象" href="dom-obj-track.html">&lt;track&gt;</a>
+<a target="_top" title="HTML DOM Video对象" href="dom-obj-video.html">&lt;video&gt;</a>
+</div>
+</div>
+</div>

@@ -1,0 +1,280 @@
+<div class="col left-column">
+<div class="tab">HTML 参考手册</div>
+<div class="sidebar-box gallery-list">
+<div class="design" id="leftcolumn">
+<a target="_top" title="HTML 标签列表(字母排序)" href="/tags/html-reference.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+HTML 标签列表(字母排序)			</a>
+<a target="_top" title="HTML 标签列表（功能排序）" href="/tags/ref-byfunc.html">
+HTML 标签列表（功能排序）			</a>
+<a target="_top" title="HTML 全局属性" href="/tags/ref-standardattributes.html">
+HTML 全局属性			</a>
+<a target="_top" title="HTML 事件" href="/tags/ref-eventattributes.html">
+HTML 事件			</a>
+<a target="_top" title="HTML 画布" href="/tags/ref-canvas.html">
+HTML 画布			</a>
+<a target="_top" title="HTML 音频/视频" href="/tags/ref-av-dom.html">
+HTML 音频/视频			</a>
+<a target="_top" title="HTML 有效DOCTYPES" href="/tags/html-elementsdoctypes.html">
+HTML 有效DOCTYPES			</a>
+<a target="_top" title="HTML 颜色名" href="/tags/html-colorname.html">
+HTML 颜色名			</a>
+<a target="_top" title="HTML 拾色器" href="/tags/html-colorpicker.html">
+HTML 拾色器			</a>
+<a target="_top" title="HTML 颜色混搭" href="/tags/colors-mixer.html"> HTML 颜色混搭 </a>			<a target="_top" title="HTML 字符集" href="/tags/ref-charactersets.html">
+HTML 字符集			</a>
+<a target="_top" title="HTML ASCII 参考手册" href="/tags/html-ascii.html">
+HTML ASCII			</a>
+<a target="_top" title="HTML ISO-8859-1 参考手册" href="/tags/ref-entities.html">
+HTML ISO-8859-1			</a>
+<a target="_top" title="HTML 符号实体参考手册" href="/tags/html-symbols.html">
+HTML 符号			</a>
+<a target="_top" title="HTML URL 编码参考手册" href="/tags/html-urlencode.html">
+HTML URL 编码			</a>
+<a target="_top" title="HTML 语言代码参考手册" href="/tags/html-language-codes.html">
+HTML 语言代码			</a>
+<a target="_top" title="HTTP 状态消息" href="/tags/html-httpmessages.html">
+HTTP 消息			</a>
+<a target="_top" title="HTTP 方法：GET 对比 POST" href="/tags/html-httpmethods.html">
+HTTP 方法			</a>
+<a target="_top" title=" Px/Em 换算工具" href="ref-pxtoemconversion.html"> Px/Em 换算工具 </a>			<a target="_top" title="键盘快捷键" href="/tags/html-keyboardshortcuts.html">
+键盘快捷键			</a>
+<br><h2 class="left"><span class="left_h2">HTML</span> 标签</h2>			<a target="_top" title="HTML <!–…–> 注释标签" href="/tags/tag-comment.html">
+&lt;!--&gt;			</a>
+<a target="_top" title="HTML <!DOCTYPE> 声明" href="/tags/tag-doctype.html">
+&lt;!DOCTYPE&gt;			</a>
+<a target="_top" title="HTML <a> 标签" href="/tags/tag-a.html">
+&lt;a&gt;			</a>
+<a target="_top" title="HTML <abbr> 标签" href="/tags/tag-abbr.html">
+&lt;abbr&gt;			</a>
+<a target="_top" title="HTML <acronym> 标签" href="/tags/tag-acronym.html">
+&lt;acronym&gt;			</a>
+<a target="_top" title="HTML <address> 标签" href="/tags/tag-address.html">
+&lt;address&gt;			</a>
+<a target="_top" title="HTML <applet> 标签" href="/tags/tag-applet.html">
+&lt;applet&gt;			</a>
+<a target="_top" title="HTML <area> 标签" href="/tags/tag-area.html">
+&lt;area&gt;			</a>
+<a target="_top" title="HTML <article>  标签" href="/tags/tag-article.html">
+&lt;article&gt;			</a>
+<a target="_top" title="HTML <aside> 标签" href="/tags/tag-aside.html">
+&lt;aside&gt;			</a>
+<a target="_top" title="HTML <audio> 标签" href="/tags/tag-audio.html">
+&lt;audio&gt;			</a>
+<a target="_top" title="HTML <b> 标签" href="/tags/tag-b.html">
+&lt;b&gt;			</a>
+<a target="_top" title="HTML <base> 标签" href="/tags/tag-base.html">
+&lt;base&gt;			</a>
+<a target="_top" title="HTML <basefont> 标签" href="/tags/tag-basefont.html">
+&lt;basefont&gt;			</a>
+<a target="_top" title="HTML <bdi> 标签" href="/tags/tag-bdi.html">
+&lt;bdi&gt;			</a>
+<a target="_top" title="HTML <bdo>  标签" href="/tags/tag-bdo.html">
+&lt;bdo&gt;			</a>
+<a target="_top" title="HTML <big> 标签" href="/tags/tag-big.html">
+&lt;big&gt;			</a>
+<a target="_top" title="HTML <blockquote> 标签" href="/tags/tag-blockquote.html">
+&lt;blockquote&gt;			</a>
+<a target="_top" title="HTML <body> 标签" href="/tags/tag-body.html">
+&lt;body&gt;			</a>
+<a target="_top" title="HTML <br> 标签" href="/tags/tag-br.html">
+&lt;br&gt;			</a>
+<a target="_top" title="HTML <button> 标签" href="/tags/tag-button.html">
+&lt;button&gt;			</a>
+<a target="_top" title="HTML <canvas> 标签" href="/tags/tag-canvas.html">
+&lt;canvas&gt;			</a>
+<a target="_top" title="HTML <caption> 标签" href="/tags/tag-caption.html">
+&lt;caption&gt;			</a>
+<a target="_top" title="HTML <center> 标签" href="/tags/tag-center.html">
+&lt;center&gt;			</a>
+<a target="_top" title="HTML <cite> 标签" href="/tags/tag-cite.html">
+&lt;cite&gt;			</a>
+<a target="_top" title="HTML <code> 标签" href="/tags/tag-code.html">
+&lt;code&gt;			</a>
+<a target="_top" title="HTML <col> 标签" href="/tags/tag-col.html">
+&lt;col&gt;			</a>
+<a target="_top" title="HTML <colgroup> 标签" href="/tags/tag-colgroup.html">
+&lt;colgroup&gt;			</a>
+<a target="_top" title="HTML <command> 标签" href="/tags/tag-command.html">
+&lt;command&gt;			</a>
+<a target="_top" title="HTML <datalist> 标签" href="/tags/tag-datalist.html">
+&lt;datalist&gt;			</a>
+<a target="_top" title="HTML <dd> 标签" href="/tags/tag-dd.html">
+&lt;dd&gt;			</a>
+<a target="_top" title="HTML <del> 标签" href="/tags/tag-del.html">
+&lt;del&gt;			</a>
+<a target="_top" title="HTML <details> 标签" href="/tags/tag-details.html">
+&lt;details&gt;			</a>
+<a target="_top" title="HTML <dfn> 标签" href="/tags/tag-dfn.html">
+&lt;dfn&gt;			</a>
+<a target="_top" title="HTML <dialog> 标签" href="/tags/tag-dialog.html">
+&lt;dialog&gt;			</a>
+<a target="_top" title="HTML <dir> 标签" href="/tags/tag-dir.html">
+&lt;dir&gt;			</a>
+<a target="_top" title="HTML <div> 标签" href="/tags/tag-div.html">
+&lt;div&gt;			</a>
+<a target="_top" title="HTML <dl> 标签" href="/tags/tag-dl.html">
+&lt;dl&gt;			</a>
+<a target="_top" title="HTML <dt> 标签" href="/tags/tag-dt.html">
+&lt;dt&gt;			</a>
+<a target="_top" title="HTML <em> 标签" href="/tags/tag-em.html">
+&lt;em&gt;			</a>
+<a target="_top" title="HTML <embed> 标签" href="/tags/tag-embed.html">
+&lt;embed&gt;			</a>
+<a target="_top" title="HTML <fieldset> 标签" href="/tags/tag-fieldset.html">
+&lt;fieldset&gt;			</a>
+<a target="_top" title="HTML <figcaption> 标签" href="/tags/tag-figcaption.html">
+&lt;figcaption&gt;			</a>
+<a target="_top" title="HTML <figure> 标签" href="/tags/tag-figure.html">
+&lt;figure&gt;			</a>
+<a target="_top" title="HTML <font> 标签" href="/tags/tag-font.html">
+&lt;font&gt;			</a>
+<a target="_top" title="HTML <footer> 标签" href="/tags/tag-footer.html">
+&lt;footer&gt;			</a>
+<a target="_top" title="HTML <form> 标签" href="/tags/tag-form.html">
+&lt;form&gt;			</a>
+<a target="_top" title="HTML <frame> 标签" href="/tags/tag-frame.html">
+&lt;frame&gt;			</a>
+<a target="_top" title="HTML <frameset> 标签" href="/tags/tag-frameset.html">
+&lt;frameset&gt;			</a>
+<a target="_top" title="HTML <head> 标签" href="/tags/tag-head.html">
+&lt;head&gt;			</a>
+<a target="_top" title="HTML <header> 标签" href="/tags/tag-header.html">
+&lt;header&gt;			</a>
+<a target="_top" title="HTML <hgroup> 标签" href="/tags/tag-hgroup.html">
+&lt;hgroup&gt;			</a>
+<a target="_top" title="HTML <h1> – <h6> 标签" href="/tags/tag-hn.html">
+&lt;h1&gt; - &lt;h6&gt;			</a>
+<a target="_top" title="HTML <hr> 标签" href="/tags/tag-hr.html">
+&lt;hr&gt;			</a>
+<a target="_top" title="HTML <i> 标签" href="/tags/tag-i.html">
+&lt;i&gt;			</a>
+<a target="_top" title="HTML <iframe> 标签" href="/tags/tag-iframe.html">
+&lt;iframe&gt;			</a>
+<a target="_top" title="HTML <img> 标签" href="/tags/tag-img.html">
+&lt;img&gt;			</a>
+<a target="_top" title="HTML <input> 标签" href="/tags/tag-input.html">
+&lt;input&gt;			</a>
+<a target="_top" title="HTML <ins> 标签" href="/tags/tag-ins.html">
+&lt;ins&gt;			</a>
+<a target="_top" title="HTML <kbd> 标签" href="/tags/tag-kbd.html">
+&lt;kbd&gt;			</a>
+<a target="_top" title="HTML5 <keygen> 标签" href="/tags/tag-keygen.html">
+&lt;keygen&gt;			</a>
+<a target="_top" title="HTML <label> 标签" href="/tags/tag-label.html">
+&lt;label&gt;			</a>
+<a target="_top" title="HTML <legend> 标签" href="/tags/tag-legend.html">
+&lt;legend&gt;			</a>
+<a target="_top" title="HTML <li> 标签" href="/tags/tag-li.html">
+&lt;li&gt;			</a>
+<a target="_top" title="HTML <link>标签" href="/tags/tag-link.html">
+&lt;link&gt;			</a>
+<a target="_top" title="HTML <map> 标签" href="/tags/tag-map.html">
+&lt;map&gt;			</a>
+<a target="_top" title="HTML5 <mark> 标签" href="/tags/tag-mark.html">
+&lt;mark&gt;			</a>
+<a target="_top" title="HTML  <menu> 标签" href="/tags/tag-menu.html">
+&lt;menu&gt;			</a>
+<a target="_top" title="HTML <meta> 标签" href="/tags/tag-meta.html">
+&lt;meta&gt;			</a>
+<a target="_top" title="HTML <meter> 标签" href="/tags/tag-meter.html">
+&lt;meter&gt;			</a>
+<a target="_top" title="HTML <nav> 标签" href="/tags/tag-nav.html">
+&lt;nav&gt;			</a>
+<a target="_top" title="HTML <noframes> 标签" href="/tags/tag-noframes.html">
+&lt;noframes&gt;			</a>
+<a target="_top" title="HTML <noscript> 标签" href="/tags/tag-noscript.html">
+&lt;noscript&gt;			</a>
+<a target="_top" title="HTML <object> 标签" href="/tags/tag-object.html">
+&lt;object&gt;			</a>
+<a target="_top" title="HTML <ol> 标签" href="/tags/tag-ol.html">
+&lt;ol&gt;			</a>
+<a target="_top" title="HTML <optgroup> 标签" href="/tags/tag-optgroup.html">
+&lt;optgroup&gt;			</a>
+<a target="_top" title="HTML <option> 标签" href="/tags/tag-option.html">
+&lt;option&gt;			</a>
+<a target="_top" title="HTML <output> 标签" href="/tags/tag-output.html">
+&lt;output&gt;			</a>
+<a target="_top" title="HTML <p> 标签" href="/tags/tag-p.html">
+&lt;p&gt;			</a>
+<a target="_top" title="HTML <param> 标签" href="/tags/tag-param.html">
+&lt;param&gt;			</a>
+<a target="_top" title="HTML <pre> 标签" href="/tags/tag-pre.html">
+&lt;pre&gt;			</a>
+<a target="_top" title="HTML <html> 标签" href="/tags/tag-html.html">
+&lt;html&gt;			</a>
+<a target="_top" title="HTML5 <progress> 标签" href="/tags/tag-progress.html">
+&lt;progress&gt;			</a>
+<a target="_top" title="HTML <q> 标签" href="/tags/tag-q.html">
+&lt;q&gt;			</a>
+<a target="_top" title="HTML <rp> 标签" href="/tags/tag-rp.html">
+&lt;rp&gt;			</a>
+<a target="_top" title="HTML <rt> 标签" href="/tags/tag-rt.html">
+&lt;rt&gt;			</a>
+<a target="_top" title="HTML <ruby> 标签" href="/tags/tag-ruby.html">
+&lt;ruby&gt;			</a>
+<a target="_top" title="HTML <s> 标签" href="/tags/tag-s.html">
+&lt;s&gt;			</a>
+<a target="_top" title="HTML <samp> 标签" href="/tags/tag-samp.html">
+&lt;samp&gt;			</a>
+<a target="_top" title="HTML <script> 标签" href="/tags/tag-script.html">
+&lt;script&gt;			</a>
+<a target="_top" title="HTML <section> 标签" href="/tags/tag-section.html">
+&lt;section&gt;			</a>
+<a target="_top" title="HTML <select> 标签" href="/tags/tag-select.html">
+&lt;select&gt;			</a>
+<a target="_top" title="HTML <small> 标签" href="/tags/tag-small.html">
+&lt;small&gt;			</a>
+<a target="_top" title="HTML <source> 标签" href="/tags/tag-source.html">
+&lt;source&gt;			</a>
+<a target="_top" title="HTML <span> 标签" href="/tags/tag-span.html">
+&lt;span&gt;			</a>
+<a target="_top" title="HTML <strike> 标签" href="/tags/tag-strike.html">
+&lt;strike&gt;			</a>
+<a target="_top" title="HTML <strong> 标签" href="/tags/tag-strong.html">
+&lt;strong&gt;			</a>
+<a target="_top" title="HTML <style> 标签" href="/tags/tag-style.html">
+&lt;style&gt;			</a>
+<a target="_top" title="HTML <sub> 标签" href="/tags/tag-sub.html">
+&lt;sub&gt;			</a>
+<a target="_top" title="HTML <summary> 标签" href="/tags/tag-summary.html">
+&lt;summary&gt;			</a>
+<a target="_top" title="HTML <sup> 标签" href="/tags/tag-sup.html">
+&lt;sup&gt;			</a>
+<a target="_top" title="HTML <table> 标签" href="/tags/tag-table.html">
+&lt;table&gt;			</a>
+<a target="_top" title="HTML <tbody> 标签" href="/tags/tag-tbody.html">
+&lt;tbody&gt;			</a>
+<a target="_top" title="HTML <td> 标签" href="/tags/tag-td.html">
+&lt;td&gt;			</a>
+<a target="_top" title="HTML <textarea> 标签" href="/tags/tag-textarea.html">
+&lt;textarea&gt;			</a>
+<a target="_top" title="HTML <tfoot> 标签" href="/tags/tag-tfoot.html">
+&lt;tfoot&gt;			</a>
+<a target="_top" title="HTML <th> 标签" href="/tags/tag-th.html">
+&lt;th&gt;			</a>
+<a target="_top" title="HTML <thead> 标签" href="/tags/tag-thead.html">
+&lt;thead&gt;			</a>
+<a target="_top" title="HTML <time> 标签" href="/tags/tag-time.html">
+&lt;time&gt;			</a>
+<a target="_top" title="HTML <title> 标签" href="/tags/tag-title.html">
+&lt;title&gt;			</a>
+<a target="_top" title="HTML <tr> 标签" href="/tags/tag-tr.html">
+&lt;tr&gt;			</a>
+<a target="_top" title="HTML <track> 标签" href="/tags/tag-track.html">
+&lt;track&gt;			</a>
+<a target="_top" title="HTML <tt> 标签" href="/tags/tag-tt.html">
+&lt;tt&gt;			</a>
+<a target="_top" title="HTML <u> 标签" href="/tags/tag-u.html">
+&lt;u&gt;			</a>
+<a target="_top" title="HTML <ul> 标签" href="/tags/tag-ul.html">
+&lt;ul&gt;			</a>
+<a target="_top" title="HTML <var> 标签" href="/tags/tag-var.html">
+&lt;var&gt;			</a>
+<a target="_top" title="HTML <video> 标签" href="/tags/tag-video.html">
+&lt;video&gt;			</a>
+<a target="_top" title="HTML <wbr> 标签" href="/tags/tag-wbr.html">
+&lt;wbr&gt;			</a>
+
+</div>
+</div>
+</div>

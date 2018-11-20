@@ -1,0 +1,30 @@
+<div class="col left-column">
+	<div class="tab">Ajax 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="AJAX 教程" href="/ajax/ajax-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			AJAX 教程			</a>
+						<a target="_top" title="AJAX 简介" href="/ajax/ajax-intro.html">
+			AJAX 简介			</a>
+						<a target="_top" title="AJAX 实例" href="/ajax/ajax-example.html">
+			AJAX 实例			</a>
+						<a target="_top" title="AJAX 创建 XMLHttpRequest 对象" href="/ajax/ajax-xmlhttprequest-create.html">
+			XHR 创建对象			</a>
+						<a target="_top" title="AJAX – 向服务器发送请求" href="/ajax/ajax-xmlhttprequest-send.html">
+			XHR 请求			</a>
+						<a target="_top" title="AJAX XMLHttpRequest 服务器响应" href="/ajax/ajax-xmlhttprequest-response.html">
+			XHR 响应			</a>
+						<a target="_top" title="AJAX – onreadystatechange 事件" href="/ajax/ajax-xmlhttprequest-onreadystatechange.html">
+			XHR readyState			</a>
+						<a target="_top" title="AJAX ASP/PHP" href="/ajax/ajax-asp-php.html">
+			AJAX ASP/PHP			</a>
+						<a target="_top" title="AJAX 数据库" href="/ajax/ajax-database.html">
+			AJAX 数据库			</a>
+						<a target="_top" title="AJAX XML" href="/ajax/ajax-xmlfile.html">
+			AJAX XML			</a>
+						<a target="_top" title="AJAX 实例" href="/ajax/ajax-examples.html">
+			AJAX 实例			</a>
+				
+		</div>
+	</div>	
+</div>

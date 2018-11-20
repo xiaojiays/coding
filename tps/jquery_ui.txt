@@ -1,0 +1,115 @@
+<div class="col left-column">
+<div class="tab">jQuery UI 教程</div>
+<div class="sidebar-box gallery-list">
+<div class="design" id="leftcolumn">
+<a target="_top" title="jQuery UI 教程" href="/jqueryui/jqueryui-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+jQuery UI 教程 </a>
+<a target="_top" title="jQuery UI 简介" href="/jqueryui/jqueryui-intro.html">
+jQuery UI 简介 </a>
+<a target="_top" title="jQuery UI 下载" href="/jqueryui/jqueryui-download.html">
+jQuery UI 下载 </a>
+<a target="_top" title="jQuery UI 使用" href="/jqueryui/jqueryui-use.html">
+jQuery UI 使用 </a>
+<a target="_top" title="jQuery UI 定制" href="/jqueryui/jqueryui-custom.html">
+jQuery UI 定制 </a>
+<a target="_top" title="jQuery UI 工作原理" href="/jqueryui/jqueryui-work.html">
+jQuery UI 工作原理 </a>
+<br><h2 class="left">jQuery UI <span class="left_h2">主题</span></h2> <a target="_top" title="jQuery UI 主题" href="/jqueryui/jqueryui-theme.html">
+jQuery UI 主题 </a>
+<a target="_top" title="jQuery UI ThemeRoller" href="/jqueryui/jqueryui-theme-themeroller.html">
+jQuery UI ThemeRoller </a>
+<a target="_top" title="jQuery UI CSS 框架 API" href="/jqueryui/jqueryui-theme-api.html">
+jQuery UI CSS 框架 API </a>
+<a target="_top" title="jQuery UI 设计主题" href="/jqueryui/jqueryui-theme-design.html">
+jQuery UI 设计主题 </a>
+<br><h2 class="left">jQuery UI <span class="left_h2">部件库</span></h2> <a target="_top" title="jQuery UI 部件库" href="/jqueryui/jqueryui-widget-factory.html">
+jQuery UI 部件库 </a>
+<a target="_top" title="jQuery UI 通过部件库扩展小部件" href="/jqueryui/jqueryui-widget-extend.html">
+jQuery UI 扩展小部件 </a>
+<a target="_top" title="jQuery UI 小部件方法调用" href="/jqueryui/jqueryui-widget-method.html">
+jQuery UI 小部件方法调用 </a>
+<a target="_top" title="jQuery UI 为什么使用部件库" href="/jqueryui/jqueryui-widget-factory-why.html">
+jQuery UI 为什么使用部件库 </a>
+<a target="_top" title="jQuery UI 如何使用部件库" href="/jqueryui/jqueryui-widget-factory-how.html">
+jQuery UI 如何使用部件库 </a>
+<br><h2 class="left">jQuery UI <span class="left_h2">参考手册</span></h2> <a target="_top" title="jQuery UI API 文档" href="/jqueryui/jqueryui-api.html">
+jQuery UI API 文档 </a>
+<a target="_top" title="jQuery UI API 类别 – 特效" href="/jqueryui/ref-effects.html">
+API 类别 - 特效 </a>
+<a target="_top" title="jQuery UI API 类别 – 特效核心" href="/jqueryui/ref-effects-core.html">
+API 类别 - 特效核心 </a>
+<a target="_top" title="jQuery UI API 类别 – 交互" href="/jqueryui/ref-interactions.html">
+API 类别 - 交互 </a>
+<a target="_top" title="jQuery UI API 类别 – 方法重载" href="/jqueryui/ref-overrides.html">
+API 类别 - 方法重载 </a>
+<a target="_top" title="jQuery UI API 类别 – 方法" href="/jqueryui/ref-methods.html">
+API 类别 - 方法 </a>
+<a target="_top" title="jQuery UI API 类别 – 选择器" href="/jqueryui/ref-selectors.html">
+API 类别 - 选择器 </a>
+<a target="_top" title="jQuery UI API 类别 – 主题" href="/jqueryui/ref-theming.html">
+API 类别 - 主题 </a>
+<a target="_top" title="jQuery UI API 类别 – UI 核心" href="/jqueryui/ref-ui-core.html">
+API 类别 - UI 核心 </a>
+<a target="_top" title="jQuery UI API 类别 – 实用工具" href="/jqueryui/ref-utilities.html">
+API 类别 - 实用工具 </a>
+<a target="_top" title="jQuery UI API 类别 – 小部件" href="/jqueryui/ref-widgets.html">
+API 类别 - 小部件 </a>
+<br><h2 class="left">jQuery UI <span class="left_h2">实例</span></h2> <a target="_top" title="jQuery UI 实例" href="/jqueryui/jqueryui-examples.html">
+jQuery UI 实例 </a>
+<a target="_top" title="jQuery UI 实例 – 拖动（Draggable）" href="/jqueryui/example-draggable.html">
+拖动（Draggable） </a>
+<a target="_top" title="jQuery UI 实例 – 放置（Droppable）" href="/jqueryui/example-droppable.html">
+放置（Droppable） </a>
+<a target="_top" title="jQuery UI 实例 – 缩放（Resizable）" href="/jqueryui/example-resizable.html">
+缩放（Resizable） </a>
+<a target="_top" title="jQuery UI 实例 – 选择（Selectable）" href="/jqueryui/example-selectable.html">
+选择（Selectable） </a>
+<a target="_top" title="jQuery UI 实例 – 排序（Sortable）" href="/jqueryui/example-sortable.html">
+排序（Sortable） </a>
+<a target="_top" title="jQuery UI 实例 – 折叠面板（Accordion）" href="/jqueryui/example-accordion.html">
+折叠面板（Accordion） </a>
+<a target="_top" title="jQuery UI 实例 – 自动完成（Autocomplete）" href="/jqueryui/example-autocomplete.html">
+自动完成（Autocomplete） </a>
+<a target="_top" title="jQuery UI 实例 – 按钮（Button）" href="/jqueryui/example-button.html">
+按钮（Button） </a>
+<a target="_top" title="jQuery UI 实例 – 日期选择器（Datepicker）" href="/jqueryui/example-datepicker.html">
+日期选择器（Datepicker） </a>
+<a target="_top" title="jQuery UI 实例 – 对话框（Dialog）" href="/jqueryui/example-dialog.html">
+对话框（Dialog） </a>
+<a target="_top" title="jQuery UI 实例 – 菜单（Menu）" href="/jqueryui/example-menu.html">
+菜单（Menu） </a>
+<a target="_top" title="jQuery UI 实例 – 进度条（Progressbar）" href="/jqueryui/example-progressbar.html">
+进度条（Progressbar） </a>
+<a target="_top" title="jQuery UI 实例 – 滑块（Slider）" href="/jqueryui/example-slider.html">
+滑块（Slider） </a>
+<a target="_top" title="jQuery UI 实例 – 旋转器（Spinner）" href="/jqueryui/example-spinner.html">
+旋转器（Spinner） </a>
+<a target="_top" title="jQuery UI 实例 – 标签页（Tabs）" href="/jqueryui/example-tabs.html">
+标签页（Tabs） </a>
+<a target="_top" title="jQuery UI 实例 – 工具提示框（Tooltip）" href="/jqueryui/example-tooltip.html">
+工具提示框（Tooltip） </a>
+<a target="_top" title="jQuery UI 实例 – 特效（Effect）" href="/jqueryui/example-effect.html">
+特效（Effect） </a>
+<a target="_top" title="jQuery UI 实例 – 显示（Show）" href="/jqueryui/example-show.html">
+显示（Show） </a>
+<a target="_top" title="jQuery UI 实例 – 隐藏（Hide）" href="/jqueryui/example-hide.html">
+隐藏（Hide） </a>
+<a target="_top" title="jQuery UI 实例 – 切换（Toggle）" href="/jqueryui/example-toggle.html">
+切换（Toggle） </a>
+<a target="_top" title="jQuery UI 实例 – 添加 Class（Add Class）" href="/jqueryui/example-addclass.html">
+.addClass() </a>
+<a target="_top" title="jQuery UI 实例 – 移除 Class（Remove Class）" href="/jqueryui/example-removeclass.html">
+.removeClass() </a>
+<a target="_top" title="jQuery UI 实例 – 切换 Class（Toggle Class）" href="/jqueryui/example-toggleclass.html">
+.toggleClass() </a>
+<a target="_top" title="jQuery UI 实例 – 转换 Class（Switch Class）" href="/jqueryui/example-switchclass.html">
+.switchClass() </a>
+<a target="_top" title="jQuery UI 实例 – 颜色动画（Color Animation）" href="/jqueryui/example-animate.html">
+颜色动画 </a>
+<a target="_top" title="jQuery UI 实例 – 定位（Position）" href="/jqueryui/example-position.html">
+定位（Position） </a>
+<a target="_top" title="jQuery UI 实例 – 部件库（Widget Factory）" href="/jqueryui/example-widget.html">
+部件库（Widget Factory） </a>
+</div>
+</div>
+</div>

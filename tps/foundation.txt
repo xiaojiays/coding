@@ -1,0 +1,88 @@
+<div class="col left-column">
+	<div class="tab">Foundation 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="Foundation 教程" href="/foundation/foundation-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			Foundation 教程			</a>
+						<a target="_top" title="Foundation 起步" href="/foundation/foundation-get-started.html">
+			Foundation 起步			</a>
+						<a target="_top" title="Foundation 文本" href="/foundation/foundation-typography.html">
+			Foundation 文本			</a>
+						<a target="_top" title="Foundation 表格" href="/foundation/foundation-tables.html">
+			Foundation 表格			</a>
+						<a target="_top" title="Foundation 按钮" href="/foundation/foundation-buttons.html">
+			Foundation 按钮			</a>
+						<a target="_top" title="Foundation 按钮组" href="/foundation/foundation-button-groups.html">
+			Foundation 按钮组			</a>
+						<a target="_top" title="Foundation 图标" href="/foundation/foundation-icons.html">
+			Foundation 图标			</a>
+						<a target="_top" title="Foundation 标签" href="/foundation/foundation-labels.html">
+			Foundation 标签			</a>
+						<a target="_top" title="Foundation 提醒框" href="/foundation/foundation-alerts.html">
+			Foundation 提醒框			</a>
+						<a target="_top" title="Foundation 进度条" href="/foundation/foundation-progressbars.html">
+			Foundation 进度条			</a>
+						<a target="_top" title="Foundation 面板" href="/foundation/foundation-panels.html">
+			Foundation 面板			</a>
+						<a target="_top" title="Foundation 图片" href="/foundation/foundation-images.html">
+			Foundation 图片			</a>
+						<a target="_top" title="Foundation 下拉菜单" href="/foundation/foundation-dropdowns.html">
+			Foundation 下拉菜单			</a>
+						<a target="_top" title="Foundation 折叠列表" href="/foundation/foundation-collapse.html">
+			Foundation 折叠列表			</a>
+						<a target="_top" title="Foundation 列表" href="/foundation/foundation-lists.html">
+			Foundation 列表			</a>
+						<a target="_top" title="Foundation 选项卡" href="/foundation/foundation-tabs.html">
+			Foundation 选项卡			</a>
+						<a target="_top" title="Foundation 分页" href="/foundation/foundation-pagination.html">
+			Foundation 分页			</a>
+						<a target="_top" title="Foundation 价格表" href="/foundation/foundation-pricing-tables.html">
+			Foundation 价格表			</a>
+						<a target="_top" title="Foundation 顶部导航栏" href="/foundation/foundation-topbar.html">
+			Foundation 顶部导航栏			</a>
+						<a target="_top" title="Foundation 侧边栏" href="/foundation/foundation-sidenav.html">
+			Foundation 侧边栏			</a>
+						<a target="_top" title="Foundation 滑动导航(Off-Canvas)" href="/foundation/foundation-off-canvas.html">
+			Foundation 滑动导航(Off-Canvas)			</a>
+						<a target="_top" title="Foundation 麦哲伦（Magellan）导航" href="/foundation/foundation-magellan.html">
+			Foundation Magellan			</a>
+						<a target="_top" title="Foundation 表单" href="/foundation/foundation-forms.html">
+			Foundation 表单			</a>
+						<a target="_top" title="Foundation 输入框尺寸" href="/foundation/foundation-input-sizing.html">
+			Foundation 输入框尺寸			</a>
+						<a target="_top" title="Foundation 开关" href="/foundation/foundation-switches.html">
+			Foundation 开关			</a>
+						<a target="_top" title="Foundation 滑块" href="/foundation/foundation-sliders.html">
+			Foundation 滑块			</a>
+						<a target="_top" title="Foundation 提示框" href="/foundation/foundation-tooltips.html">
+			Foundation 提示框			</a>
+						<a target="_top" title="Foundation 模态框" href="/foundation/foundation-modal.html">
+			Foundation 模态框			</a>
+						<a target="_top" title="Foundation Joyride" href="/foundation/foundation-joyride.html">
+			Foundation Joyride			</a>
+						<a target="_top" title="Foundation 均衡器(Equalizer)" href="/foundation/foundation-equalizer.html">
+			Foundation 均衡器			</a>
+			<br><h2 class="left"><span class="left_h2">Foundation 网格</span></h2>			<a target="_top" title="Foundation 网格系统" href="/foundation/foundation-grid-system.html">
+			Foundation 网格系统			</a>
+						<a target="_top" title="Foundation 网格 – 水平堆叠" href="/foundation/foundation-grid-stacked-to-horizontal.html">
+			Foundation 网格 - 水平堆叠			</a>
+						<a target="_top" title="Foundation 网格 – 小型设备" href="/foundation/foundation-grid-small.html">
+			Foundation 网格 - 小型设备			</a>
+						<a target="_top" title="Foundation 网格 – 中型设备" href="/foundation/foundation-grid-medium.html">
+			Foundation 网格 - 中型设备			</a>
+						<a target="_top" title="Foundation 网格 – 大型设备" href="/foundation/foundation-grid-large.html">
+			Foundation 网格 - 大型设备			</a>
+						<a target="_top" title="Foundation 块状网格" href="/foundation/foundation-grid-block.html">
+			Foundation 块状网格			</a>
+						<a target="_top" title="Foundation 网格实例" href="/foundation/foundation-grid-examples.html">
+			Foundation 网格实例			</a>
+			<br><h2 class="left"><span class="left_h2">Foundation 参考手册</span></h2>			<a target="_top" title="Foundation 图标参考手册" href="/foundation/foundation-ref-icons.html">
+			Foundation 图标参考手册			</a>
+						<a target="_top" title="Foundation CSS 参考手册" href="/foundation/foundation-ref-helpers.html">
+			Foundation CSS 参考手册			</a>
+						<a target="_top" title="Foundation CSS 可见性" href="/foundation/foundation-ref-visibility.html">
+			Foundation CSS 可见性			</a>
+				
+		</div>
+	</div>	
+</div>

@@ -1,0 +1,125 @@
+<div class="col left-column">
+	<div class="tab">Javascript 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="JavaScript 教程" href="/js/js-tutorial.html">
+			JavaScript 教程			</a>
+						<a target="_top" title="JavaScript 简介" href="/js/js-intro.html">
+			JavaScript 简介			</a>
+						<a target="_top" title="JavaScript 用法" href="/js/js-howto.html">
+			JavaScript 用法			</a>
+						<a target="_top" title="JavaScript 输出" href="/js/js-output.html">
+			JavaScript 输出			</a>
+			<a target="_top" title="JavaScript 语法 " href="js-syntax.html"> JavaScript 语法 </a>			<a target="_top" title="JavaScript 语句" href="/js/js-statements.html">
+			JavaScript 语句			</a>
+						<a target="_top" title="JavaScript 注释" href="/js/js-comments.html">
+			JavaScript 注释			</a>
+						<a target="_top" title="JavaScript  变量" href="/js/js-variables.html">
+			JavaScript  变量			</a>
+						<a target="_top" title="JavaScript 数据类型" href="/js/js-datatypes.html">
+			JavaScript 数据类型			</a>
+						<a target="_top" title="JavaScript 对象" href="/js/js-obj-intro.html">
+			JavaScript 对象			</a>
+						<a target="_top" title="JavaScript 函数" href="/js/js-functions.html">
+			JavaScript 函数			</a>
+			<a target="_top" title="JavaScript 作用域" href="/js/js-scope.html"> JavaScript 作用域 </a>
+<a target="_top" title="JavaScript 事件" href="/js/js-events.html"> JavaScript 事件 </a>
+<a target="_top" title="JavaScript 字符串" href="/js/js-strings.html"> JavaScript 字符串</a>			<a target="_top" title="JavaScript 运算符" href="/js/js-operators.html">
+			JavaScript 运算符			</a>
+						<a target="_top" title="JavaScript 比较和逻辑运算符" href="/js/js-comparisons.html">
+			JavaScript 比较			</a>
+						<a target="_top" title="JavaScript If…Else 语句" href="/js/js-if-else.html">
+			JavaScript 条件语句			</a>
+						<a target="_top" title="JavaScript switch 语句" href="/js/js-switch.html">
+			JavaScript switch 语句			</a>
+						<a target="_top" title="JavaScript for 循环" href="/js/js-loop-for.html">
+			JavaScript for 循环			</a>
+						<a target="_top" title="JavaScript while 循环" href="/js/js-loop-while.html">
+			JavaScript while 循环			</a>
+						<a target="_top" title="JavaScript Break 和 Continue 语句" href="/js/js-break.html">
+			JavaScript Break 和 Continue 语句			</a>
+			<a target="_top" title="JavaScript typeof" href="js-typeof.html"> JavaScript typeof </a>
+<a target="_top" title="JavaScript 类型转换" href="js-type-conversion.html"> JavaScript 类型转换 </a>
+<a target="_top" title="JavaScript 正则表达式" href="js-regexp.html"> JavaScript 正则表达式 </a>			<a target="_top" title="JavaScript 错误 – Throw、Try 和 Catch" href="/js/js-errors.html">
+			JavaScript  错误			</a>
+			<a target="_top" title="JavaScript 调试" href="js-debugging.html"> JavaScript 调试</a>
+<a target="_top" title="JavaScript 变量提升" href="js-hoisting.html"> JavaScript 变量提升</a>
+<a target="_top" title="JavaScript 严格模式" href="js-strict.html"> JavaScript 严格模式</a>
+<a target="_top" title="JavaScript 使用误区" href="js-mistakes.html"> JavaScript 使用误区</a>			<a target="_top" title="JavaScript 表单验证" href="/js/js-form-validation.html">
+			JavaScript 表单验证			</a>
+			<a target="_top" href="/js/js-reserved.html">	JavaScript 保留关键字	</a>
+<a target="_top" href="/js/js-json.html"> JavaScript JSON	</a>
+<a target="_top" href="/js/js-void.html"> JavaScript void </a>
+
+<a target="_top" href="/js/js-conventions.html"> JavaScript 代码规范 </a>
+<br>
+<h2 class="left"><span class="left_h2">JS</span> 函数</h2>
+<a target="_top" title="JavaScript 函数定义" href="js-function-definition.html"> JavaScript 函数定义 </a>
+<a target="_top" title="JavaScript 函数参数" href="js-function-parameters.html"> JavaScript 函数参数 </a>
+<a target="_top" title="JavaScript 函数调用" href="js-function-invocation.html"> JavaScript 函数调用 </a>
+<a target="_top" title="JavaScript 闭包" href="js-function-closures.html"> JavaScript 闭包 </a>
+<br>
+<h2 class="left"><span class="left_h2">JS</span> HTML DOM</h2>			<a target="_top" title="JavaScript HTML DOM" href="/js/js-htmldom.html">
+			DOM 简介			</a>
+						<a target="_top" title="JavaScript HTML DOM 改变 HTML 内容" href="/js/js-htmldom-html.html">
+			DOM HTML			</a>
+						<a target="_top" title="JavaScript HTML DOM 改变 CSS" href="/js/js-htmldom-css.html">
+			DOM CSS			</a>
+						<a target="_top" title="JavaScript HTML DOM 事件" href="/js/js-htmldom-events.html">
+			DOM 事件			</a>
+			<a target="_top" href="js-htmldom-eventlistener.html">DOM EventListener</a>			<a target="_top" title="JavaScript HTML DOM 元素" href="/js/js-htmldom-elements.html">
+			DOM 元素			</a>
+			<br><h2 class="left"><span class="left_h2">JS</span> 高级教程</h2>			<a target="_top" title="JavaScript 对象" href="/js/js-objects.html">
+			JavaScript 对象			</a>
+						<a target="_top" title="JavaScript Number 对象" href="/js/js-obj-number.html">
+			JavaScript Number 对象			</a>
+						<a target="_top" title="JavaScript 字符串（String）对象" href="/js/js-obj-string.html">
+			JavaScript String			</a>
+						<a target="_top" title="JavaScript Date（日期）对象" href="/js/js-obj-date.html">
+			JavaScript Date（日期）			</a>
+						<a target="_top" title="JavaScript  Array（数组）对象" href="/js/js-obj-array.html">
+			JavaScript  Array（数组）			</a>
+						<a target="_top" title="JavaScript Boolean（布尔）对象" href="/js/js-obj-boolean.html">
+			JavaScript Boolean（布尔）			</a>
+						<a target="_top" title="JavaScript Math（算数）对象" href="/js/js-obj-math.html">
+			JavaScript Math（算数）			</a>
+						<a target="_top" title="JavaScript RegExp 对象" href="/js/js-obj-regexp.html">
+			JavaScript RegExp 对象			</a>
+			<br><h2 class="left"><span class="left_h2">JS</span> 浏览器BOM</h2>			<a target="_top" title="JavaScript Window" href="/js/js-window.html">
+			JavaScript Window			</a>
+						<a target="_top" title="JavaScript Window Screen" href="/js/js-window-screen.html">
+			JavaScript Window Screen			</a>
+						<a target="_top" title="JavaScript Window Location" href="/js/js-window-location.html">
+			JavaScript Window Location			</a>
+						<a target="_top" title="JavaScript Window History" href="/js/js-window-history.html">
+			JavaScript Window History			</a>
+						<a target="_top" title="JavaScript Window Navigator" href="/js/js-window-navigator.html">
+			JavaScript Navigator			</a>
+						<a target="_top" title="JavaScript 弹窗" href="/js/js-popup.html">
+			JavaScript 弹窗			</a>
+						<a target="_top" title="JavaScript 计时事件" href="/js/js-timing.html">
+			JavaScript 计时事件			</a>
+						<a target="_top" title="JavaScript Cookies" href="/js/js-cookies.html">
+			JavaScript Cookies			</a>
+			<br><h2 class="left"><span class="left_h2">JS</span> 库</h2>			<a target="_top" title="JavaScript 库" href="/js/js-libraries.html">
+			JavaScript 库			</a>
+						<a target="_top" title="JavaScript 测试 jQuery" href="/js/js-lib-jquery.html">
+			JavaScript 测试 jQuery			</a>
+						<a target="_top" title="JavaScript 测试 Prototype" href="/js/js-lib-prototype.html">
+			JavaScript 测试 Prototype			</a>
+			<br><h2 class="left"><span class="left_h2">JS</span> 实例</h2>			<a target="_top" title="JavaScript 实例" href="/js/js-examples.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			JavaScript 实例			</a>
+						<a target="_top" title="JavaScript 对象实例" href="/js/js-ex-objects.html">
+			JavaScript 对象实例			</a>
+						<a target="_top" title="JavaScript 浏览器对象实例" href="/js/js-ex-browser.html">
+			JavaScript 浏览器对象实例			</a>
+						<a target="_top" title="JavaScript HTML DOM 实例" href="/js/js-ex-dom.html">
+			JavaScript HTML DOM 实例			</a>
+						<a target="_top" title="JavaScript 总结" href="/js/js-summary.html">
+			JavaScript 总结			</a>
+			<br>
+
+	
+		</div>
+	</div>	
+</div>

@@ -1,0 +1,101 @@
+<div class="col left-column">
+	<div class="tab">jQuery 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="jQuery 教程" href="/jquery/jquery-tutorial.html">
+			jQuery 教程			</a>
+						<a target="_top" title="jQuery 简介" href="/jquery/jquery-intro.html">
+			jQuery 简介			</a>
+						<a target="_top" title="jQuery 安装" href="/jquery/jquery-install.html">
+			jQuery 安装			</a>
+						<a target="_top" title="jQuery 语法" href="/jquery/jquery-syntax.html">
+			jQuery 语法			</a>
+						<a target="_top" title="jQuery 选择器" href="/jquery/jquery-selectors.html">
+			jQuery 选择器			</a>
+						<a target="_top" title="jQuery 事件" href="/jquery/jquery-events.html">
+			jQuery 事件			</a>
+			<br><h2 class="left"><span class="left_h2">jQuery 效果</span></h2>			<a target="_top" title="jQuery 效果 – 隐藏和显示" href="/jquery/jquery-hide-show.html">
+			jQuery 隐藏/显示			</a>
+						<a target="_top" title="jQuery 效果 – 淡入淡出" href="/jquery/jquery-fade.html">
+			jQuery 淡入淡出			</a>
+						<a target="_top" title="jQuery 效果 – 滑动" href="/jquery/jquery-slide.html">
+			jQuery 滑动			</a>
+						<a target="_top" title="jQuery 效果 – 动画" href="/jquery/jquery-animate.html">
+			jQuery 动画			</a>
+						<a target="_top" title="jQuery 效果 – 停止动画" href="/jquery/jquery-stop.html">
+			jQuery 停止动画			</a>
+						<a target="_top" title="jQuery Callback 方法" href="/jquery/jquery-callback.html">
+			jQuery Callback			</a>
+						<a target="_top" title="jQuery Chaining" href="/jquery/jquery-chaining.html">
+			jQuery Chaining			</a>
+			<br><h2 class="left"><span class="left_h2">jQuery HTML</span></h2>			<a target="_top" title="jQuery 获取内容和属性" href="/jquery/jquery-dom-get.html">
+			jQuery 捕获			</a>
+						<a target="_top" title="jQuery 设置内容和属性" href="/jquery/jquery-dom-set.html">
+			jQuery 设置			</a>
+						<a target="_top" title="jQuery 添加元素" href="/jquery/jquery-dom-add.html">
+			jQuery 添加元素			</a>
+						<a target="_top" title="jQuery 删除元素" href="/jquery/jquery-dom-remove.html">
+			jQuery 删除元素			</a>
+						<a target="_top" title="jQuery 获取并设置 CSS 类" href="/jquery/jquery-css-classes.html">
+			jQuery CSS 类			</a>
+						<a target="_top" title="jQuery css() 方法" href="/jquery/jquery-css.html">
+			jQuery css() 方法			</a>
+						<a target="_top" title="jQuery 尺寸" href="/jquery/jquery-dimensions.html">
+			jQuery 尺寸			</a>
+			<br><h2 class="left"><span class="left_h2">jQuery 遍历</span></h2>			<a target="_top" title="jQuery 遍历" href="/jquery/jquery-traversing.html">
+			jQuery 遍历			</a>
+						<a target="_top" title="jQuery 遍历 – 祖先" href="/jquery/jquery-traversing-ancestors.html">
+			jQuery 祖先			</a>
+						<a target="_top" title="jQuery 遍历 – 后代" href="/jquery/jquery-traversing-descendants.html">
+			jQuery 后代			</a>
+						<a target="_top" title="jQuery 遍历 – 同胞(siblings)" href="/jquery/jquery-traversing-siblings.html">
+			jQuery 同胞			</a>
+						<a target="_top" title="jQuery 遍历 – 过滤" href="/jquery/jquery-traversing-filtering.html">
+			jQuery 过滤			</a>
+			<br><h2 class="left"><span class="left_h2">jQuery Ajax</span></h2>			<a target="_top" title="jQuery AJAX 简介" href="/jquery/jquery-ajax-intro.html">
+			jQuery AJAX 简介			</a>
+						<a target="_top" title="jQuery – AJAX load() 方法" href="/jquery/jquery-ajax-load.html">
+			jQuery load() 方法			</a>
+						<a target="_top" title="jQuery – AJAX get() 和 post() 方法" href="/jquery/jquery-ajax-get-post.html">
+			jQuery  get()/post() 方法			</a>
+			<br><h2 class="left"><span class="left_h2">jQuery 其他</span></h2>			<a target="_top" title="jQuery noConflict() 方法" href="/jquery/jquery-noconflict.html">
+			jQuery noConflict() 方法			</a>
+			<a target="_blank" title="jQuery JSONP" href="/json/json-jsonp.html">jQuery JSONP </a>
+<br><h2 class="left"><span class="left_h2">jQuery 实例</span></h2>			<a target="_top" title="jQuery 实例" href="/jquery/jquery-examples.html">
+			jQuery 实例			</a>
+			<br><h2 class="left"><span class="left_h2">jQuery 参考手册</span></h2>			<a target="_top" title="jQuery 选择器" href="/jquery/jquery-ref-selectors.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			jQuery 选择器			</a>
+						<a target="_top" title="jQuery 事件方法" href="/jquery/jquery-ref-events.html">
+			jQuery 事件方法			</a>
+						<a target="_top" title="jQuery 效果方法" href="/jquery/jquery-ref-effects.html">
+			jQuery 效果方法			</a>
+						<a target="_top" title="jQuery HTML / CSS 方法" href="/jquery/jquery-ref-html.html">
+			jQuery HTML / CSS 方法			</a>
+						<a target="_top" title="jQuery 遍历方法" href="/jquery/jquery-ref-traversing.html">
+			jQuery 遍历方法			</a>
+						<a target="_top" title="jQuery AJAX 方法" href="/jquery/jquery-ref-ajax.html">
+			jQuery AJAX 方法			</a>
+						<a target="_top" title="jQuery 杂项方法" href="/jquery/jquery-ref-misc.html">
+			jQuery 杂项方法			</a>
+						<a target="_top" title="jQuery 属性" href="/jquery/jquery-ref-prop.html">
+			jQuery 属性			</a>
+			<br><h2 class="left">jQuery <span class="left_h2">插件</span></h2>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-validate.html">
+	jQuery Validate	</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-accordion.html">
+	jQuery Accordion</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-autocomplete.html">
+	jQuery Autocomplete</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-message.html">
+	jQuery Message</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-password-validation.html">
+	jQuery 密码验证</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-prettydate.html">
+	jQuery Prettydate</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-tooltip.html">
+	jQuery Tooltip</a>
+<a target="_top" href="http://www.w3cschool.cc/jquery/jquery-plugin-treeview.html">
+	jQuery Treeview</a>	
+		</div>
+	</div>	
+</div>

@@ -1,0 +1,86 @@
+<div class="col left-column">
+	<div class="tab">MongoDB 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="MongoDB 教程" href="/mongodb/mongodb-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			MongoDB 教程			</a>
+						<a target="_top" title="NoSQL 简介" href="/mongodb/nosql.html">
+			NoSQL 简介			</a>
+						<a target="_top" title="MongoDB 简介" href="/mongodb/mongodb-intro.html">
+			MongoDB 简介			</a>
+						<a target="_top" title="window平台安装MongoDB" href="/mongodb/mongodb-window-install.html">
+			window平台安装MongoDB			</a>
+						<a target="_top" title="Linux平台安装MongoDB" href="/mongodb/mongodb-linux-install.html">
+			Linux平台安装MongoDB			</a>
+						<a target="_top" title="MongoDB 概念解析" href="/mongodb/mongodb-databases-documents-collections.html">
+			MongoDB 概念解析			</a>
+						<a target="_top" title="MongoDB 连接" href="/mongodb/mongodb-connections.html">
+			MongoDB 连接			</a>
+			<a target="_top" title="MongoDB 创建数据库" href="mongodb-create-database.html"> MongoDB 创建数据库 </a>
+<a target="_top" title="MongoDB 删除数据库 " href="mongodb-dropdatabase.html"> MongoDB 删除数据库 </a>			<a target="_top" title="MongoDB 插入文档" href="/mongodb/mongodb-insert.html">
+			MongoDB 插入文档			</a>
+						<a target="_top" title="MongoDB 更新文档" href="/mongodb/mongodb-update.html">
+			MongoDB 更新文档			</a>
+						<a target="_top" title="MongoDB 删除文档" href="/mongodb/mongodb-remove.html">
+			MongoDB 删除文档			</a>
+						<a target="_top" title="MongoDB 查询文档" href="/mongodb/mongodb-query.html">
+			MongoDB 查询文档			</a>
+						<a target="_top" title="MongoDB 条件操作符" href="/mongodb/mongodb-operators.html">
+			MongoDB 条件操作符			</a>
+						<a target="_top" title="MongoDB $type 操作符" href="/mongodb/mongodb-operators-type.html">
+			MongoDB $type 操作符			</a>
+						<a target="_top" title="MongoDB Limit与Skip方法" href="/mongodb/mongodb-limit-skip.html">
+			MongoDB Limit与Skip方法			</a>
+						<a target="_top" title="MongoDB 排序" href="/mongodb/mongodb-sort.html">
+			MongoDB 排序			</a>
+						<a target="_top" title="MongoDB 索引" href="/mongodb/mongodb-indexing.html">
+			MongoDB 索引			</a>
+						<a target="_top" title="MongoDB 聚合" href="/mongodb/mongodb-aggregate.html">
+			MongoDB 聚合			</a>
+						<a target="_top" title="MongoDB 复制(副本集)" href="/mongodb/mongodb-replication.html">
+			MongoDB 复制(副本集)			</a>
+						<a target="_top" title="MongoDB 分片" href="/mongodb/mongodb-sharding.html">
+			MongoDB 分片			</a>
+						<a target="_top" title="MongoDB 备份(mongodump)与恢复(mongorestore)" href="/mongodb/mongodb-mongodump-mongorestore.html">
+			MongoDB 备份与恢复			</a>
+						<a target="_top" title="MongoDB 监控" href="/mongodb/mongodb-mongostat-mongotop.html">
+			MongoDB 监控			</a>
+						<a target="_top" title="MongoDB Java" href="/mongodb/mongodb-java.html">
+			MongoDB Java			</a>
+			<a target="_top" title="MongoDB PHP 扩展" href="mongodb-install-php-driver.html"> MongoDB PHP 扩展 </a>			<a target="_top" title="MongoDB PHP" href="/mongodb/mongodb-php.html">
+			MongoDB PHP			</a>
+			<a target="_top" title="MongoDB PHP7" href="php7-mongdb-tutorial.html"> MongoDB PHP7 </a>
+<br><h2 class="left"><span class="left_h2">MongoDB 高级教程</span></h2>			<a target="_top" title="MongoDB 关系" href="/mongodb/mongodb-relationships.html">
+			MongoDB 关系			</a>
+						<a target="_top" title="MongoDB 数据库引用" href="/mongodb/mongodb-database-references.html">
+			MongoDB 数据库引用			</a>
+						<a target="_top" title="MongoDB 覆盖索引查询" href="/mongodb/mongodb-covered-queries.html">
+			MongoDB 覆盖索引查询			</a>
+						<a target="_top" title="MongoDB 查询分析" href="/mongodb/mongodb-analyzing-queries.html">
+			MongoDB 查询分析			</a>
+						<a target="_top" title="MongoDB 原子操作" href="/mongodb/mongodb-atomic-operations.html">
+			MongoDB 原子操作			</a>
+						<a target="_top" title="MongoDB 高级索引" href="/mongodb/mongodb-advanced-indexing.html">
+			MongoDB 高级索引			</a>
+						<a target="_top" title="MongoDB 索引限制" href="/mongodb/mongodb-indexing-limitations.html">
+			MongoDB 索引限制			</a>
+						<a target="_top" title="MongoDB ObjectId" href="/mongodb/mongodb-objectid.html">
+			MongoDB ObjectId			</a>
+						<a target="_top" title="MongoDB Map Reduce" href="/mongodb/mongodb-map-reduce.html">
+			MongoDB Map Reduce			</a>
+						<a target="_top" title="MongoDB 全文检索" href="/mongodb/mongodb-text-search.html">
+			MongoDB 全文检索			</a>
+						<a target="_top" title="MongoDB 正则表达式" href="/mongodb/mongodb-regular-expression.html">
+			MongoDB 正则表达式			</a>
+						<a target="_top" title="MongoDB 管理工具: Rockmongo" href="/mongodb/working-with-rockmongo.html">
+			MongoDB 管理工具			</a>
+						<a target="_top" title="MongoDB GridFS" href="/mongodb/mongodb-gridfs.html">
+			MongoDB GridFS			</a>
+						<a target="_top" title="MongoDB 固定集合（Capped Collections）" href="/mongodb/mongodb-capped-collections.html">
+			MongoDB 固定集合			</a>
+						<a target="_top" title="MongoDB 自动增长" href="/mongodb/mongodb-autoincrement-sequence.html">
+			MongoDB 自动增长			</a>
+				
+		</div>
+	</div>	
+</div>

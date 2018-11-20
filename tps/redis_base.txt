@@ -1,0 +1,60 @@
+<div class="col left-column">
+	<div class="tab">Redis 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="Redis 教程" href="/redis/redis-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			Redis 教程			</a>
+						<a target="_top" title="Redis 简介" href="/redis/redis-intro.html">
+			Redis 简介			</a>
+						<a target="_top" title="Redis 安装" href="/redis/redis-install.html">
+			Redis 安装			</a>
+						<a target="_top" title="Redis 配置" href="/redis/redis-conf.html">
+			Redis 配置			</a>
+						<a target="_top" title="Redis 数据类型" href="/redis/redis-data-types.html">
+			Redis 数据类型			</a>
+			<br><h2 class="left"><span class="left_h2">Redis</span> 命令</h2>			<a target="_top" title="Redis 命令" href="/redis/redis-commands.html">
+			Redis 命令			</a>
+						<a target="_top" title="Redis 键(key)" href="/redis/redis-keys.html">
+			Redis 键(key)			</a>
+						<a target="_top" title="Redis 字符串(String)" href="/redis/redis-strings.html">
+			Redis 字符串(String)			</a>
+						<a target="_top" title="Redis 哈希(Hash)" href="/redis/redis-hashes.html">
+			Redis 哈希(Hash)			</a>
+						<a target="_top" title="Redis 列表(List)" href="/redis/redis-lists.html">
+			Redis 列表(List)			</a>
+						<a target="_top" title="Redis 集合(Set)" href="/redis/redis-sets.html">
+			Redis 集合(Set)			</a>
+						<a target="_top" title="Redis 有序集合(sorted set)" href="/redis/redis-sorted-sets.html">
+			Redis 有序集合(sorted set)			</a>
+						<a target="_top" title="Redis HyperLogLog" href="/redis/redis-hyperloglog.html">
+			Redis HyperLogLog			</a>
+						<a target="_top" title="Redis 发布订阅" href="/redis/redis-pub-sub.html">
+			Redis 发布订阅			</a>
+						<a target="_top" title="Redis 事务" href="/redis/redis-transactions.html">
+			Redis 事务			</a>
+						<a target="_top" title="Redis 脚本" href="/redis/redis-scripting.html">
+			Redis 脚本			</a>
+						<a target="_top" title="Redis 连接" href="/redis/redis-connection.html">
+			Redis 连接			</a>
+						<a target="_top" title="Redis 服务器" href="/redis/redis-server.html">
+			Redis 服务器			</a>
+			<br><h2 class="left">Redis <span class="left_h2">高级教程</span></h2>			<a target="_top" title="Redis 数据备份与恢复" href="/redis/redis-backup.html">
+			Redis 数据备份与恢复			</a>
+						<a target="_top" title="Redis 安全" href="/redis/redis-security.html">
+			Redis 安全			</a>
+						<a target="_top" title="Redis 性能测试" href="/redis/redis-benchmarks.html">
+			Redis 性能测试			</a>
+						<a target="_top" title="Redis 客户端连接" href="/redis/redis-client-connection.html">
+			Redis 客户端连接			</a>
+						<a target="_top" title="Redis 管道技术" href="/redis/redis-pipelining.html">
+			Redis 管道技术			</a>
+						<a target="_top" title="Redis 分区" href="/redis/redis-partitioning.html">
+			Redis 分区			</a>
+						<a target="_top" title="Java 使用 Redis" href="/redis/redis-java.html">
+			Java 使用 Redis			</a>
+						<a target="_top" title="PHP 使用 Redis" href="/redis/redis-php.html">
+			PHP 使用 Redis			</a>
+				
+		</div>
+	</div>	
+</div>

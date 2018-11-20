@@ -1,0 +1,144 @@
+<div class="col left-column">
+	<div class="tab">jQuery EasyUI 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="jQuery EasyUI 教程" href="/jeasyui/jqueryeasyui-tutorial.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			jQuery EasyUI 教程			</a>
+						<a target="_top" title="jQuery EasyUI 简介" href="/jeasyui/jqueryeasyui-intro.html">
+			jQuery EasyUI 简介			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 应用</h2>			<a target="_top" title="jQuery EasyUI 应用 – 创建 CRUD 应用" href="/jeasyui/jeasyui-app-crud1.html">
+			jEasyUI 创建 CRUD 应用			</a>
+						<a target="_top" title="jQuery EasyUI  应用 – 创建 CRUD 数据网格" href="/jeasyui/jeasyui-app-crud2.html">
+			jEasyUI 创建 CRUD 数据网格			</a>
+						<a target="_top" title="jQuery EasyUI  应用 – 创建展开行明细编辑表单的 CRUD 应用" href="/jeasyui/jeasyui-app-crud3.html">
+			jEasyUI 表单的 CRUD 应用			</a>
+						<a target="_top" title="jQuery EasyUI  应用 – 创建 RSS Feed 阅读器" href="/jeasyui/jeasyui-app-rssreader.html">
+			jEasyUI  创建 RSS 阅读器			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 拖放</h2>			<a target="_top" title="jQuery EasyUI 拖放 – 基本的拖动和放置" href="/jeasyui/jeasyui-dd-basic.html">
+			jEasyUI 基本的拖动和放置			</a>
+						<a target="_top" title="jQuery EasyUI 拖放 – 创建拖放的购物车" href="/jeasyui/jeasyui-dd-shopping.html">
+			jEasyUI 创建拖放的购物车			</a>
+						<a target="_top" title="jQuery EasyUI 拖放 – 创建学校课程表" href="/jeasyui/jeasyui-dd-timetable.html">
+			jEasyUI 创建学校课程表			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 菜单与按钮</h2>			<a target="_top" title="jQuery EasyUI 菜单与按钮 – 创建简单的菜单" href="/jeasyui/jeasyui-mb-menu.html">
+			jEasyUI 创建简单的菜单			</a>
+						<a target="_top" title="jQuery EasyUI 菜单与按钮 – 创建链接按钮" href="/jeasyui/jeasyui-mb-linkbutton.html">
+			jEasyUI 创建链接按钮			</a>
+						<a target="_top" title="jQuery EasyUI 菜单与按钮 – 创建菜单按钮" href="/jeasyui/jeasyui-mb-menubutton.html">
+			jEasyUI 创建菜单按钮			</a>
+						<a target="_top" title="jQuery EasyUI 菜单与按钮 – 创建分割按钮" href="/jeasyui/jeasyui-mb-splitbutton.html">
+			jEasyUI 创建分割按钮			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 布局</h2>			<a target="_top" title="jQuery EasyUI 布局 – 为网页创建边框布局" href="/jeasyui/jeasyui-layout-layout.html">
+			jEasyUI 创建边框布局			</a>
+						<a target="_top" title="jQuery EasyUI 布局 – 在面板中创建复杂布局" href="/jeasyui/jeasyui-layout-panel.html">
+			jEasyUI 创建复杂布局			</a>
+						<a target="_top" title="jQuery EasyUI 布局 – 创建折叠面板" href="/jeasyui/jeasyui-layout-accordion.html">
+			jEasyUI 创建折叠面板			</a>
+						<a target="_top" title="jQuery EasyUI 布局 – 创建标签页（Tabs）" href="/jeasyui/jeasyui-layout-tabs1.html">
+			jEasyUI 创建标签页			</a>
+						<a target="_top" title="jQuery EasyUI 布局 – 动态添加标签页（Tabs）" href="/jeasyui/jeasyui-layout-tabs2.html">
+			jEasyUI 动态添加标签页			</a>
+						<a target="_top" title="jQuery EasyUI 布局 – 添加自动播放标签页（Tabs）" href="/jeasyui/jeasyui-layout-tabs3.html">
+			jEasyUI 添加自动播放标签页			</a>
+						<a target="_top" title="jQuery EasyUI 布局 – 创建 XP 风格左侧面板" href="/jeasyui/jeasyui-layout-xp.html">
+			jEasyUI 创建 XP 风格左侧面板			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 数据网格</h2>			<a target="_top" title="jQuery EasyUI 数据网格 – 转换 HTML 表格为数据网格" href="/jeasyui/jeasyui-datagrid-datagrid1.html">
+			jEasyUI 转换 HTML 表格为数据网格			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 取得选中行数据" href="/jeasyui/jeasyui-datagrid-datagrid3.html">
+			jEasyUI 取得选中行数据			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 添加查询功能" href="/jeasyui/jeasyui-datagrid-datagrid24.html">
+			jEasyUI 添加查询功能			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 添加工具栏" href="/jeasyui/jeasyui-datagrid-datagrid4.html">
+			jEasyUI 添加工具栏			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 创建复杂工具栏" href="/jeasyui/jeasyui-datagrid-datagrid19.html">
+			jEasyUI 创建复杂工具栏			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 设置冻结列" href="/jeasyui/jeasyui-datagrid-datagrid5.html">
+			jEasyUI 设置冻结列			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 动态改变列" href="/jeasyui/jeasyui-datagrid-datagrid6.html">
+			jEasyUI 动态改变列			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 格式化列" href="/jeasyui/jeasyui-datagrid-datagrid7.html">
+			jEasyUI 格式化列			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 设置排序" href="/jeasyui/jeasyui-datagrid-datagrid8.html">
+			jEasyUI 设置排序			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 自定义排序" href="/jeasyui/jeasyui-datagrid-datagrid14.html">
+			jEasyUI 自定义排序			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 创建列组合" href="/jeasyui/jeasyui-datagrid-datagrid9.html">
+			jEasyUI 创建列组合			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 添加复选框" href="/jeasyui/jeasyui-datagrid-datagrid10.html">
+			jEasyUI 添加复选框			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 自定义分页" href="/jeasyui/jeasyui-datagrid-datagrid11.html">
+			jEasyUI 自定义分页			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 启用行内编辑" href="/jeasyui/jeasyui-datagrid-datagrid12.html">
+			jEasyUI 启用行内编辑			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 扩展编辑器" href="/jeasyui/jeasyui-datagrid-datagrid23.html">
+			jEasyUI 扩展编辑器			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 列运算" href="/jeasyui/jeasyui-datagrid-datagrid15.html">
+			jEasyUI 列运算			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 合并单元格" href="/jeasyui/jeasyui-datagrid-datagrid13.html">
+			jEasyUI 合并单元格			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 创建自定义视图" href="/jeasyui/jeasyui-datagrid-datagrid16.html">
+			jEasyUI 创建自定义视图			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 创建页脚摘要" href="/jeasyui/jeasyui-datagrid-datagrid17.html">
+			jEasyUI 创建页脚摘要			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 条件设置行背景颜色" href="/jeasyui/jeasyui-datagrid-datagrid18.html">
+			jEasyUI 条件设置行背景颜色			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 创建属性网格" href="/jeasyui/jeasyui-datagrid-datagrid20.html">
+			jEasyUI 创建属性网格			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 扩展行显示细节" href="/jeasyui/jeasyui-datagrid-datagrid21.html">
+			jEasyUI 扩展行显示细节			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 创建子网格" href="/jeasyui/jeasyui-datagrid-datagrid22.html">
+			jEasyUI 创建子网格			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 使用虚拟滚动视图显示海量数据" href="/jeasyui/jeasyui-datagrid-datagrid27.html">
+			jEasyUI 显示海量数据			</a>
+						<a target="_top" title="jQuery EasyUI 数据网格 – 添加分页组件" href="/jeasyui/jeasyui-datagrid-datagrid2.html">
+			jEasyUI 添加分页组件			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 窗口</h2>
+<a target="_top" href="http://www.w3cschool.cc/jeasyui/jeasyui-win-win1.html">
+	jEasyUI 创建简单窗口	</a>			<a target="_top" title="jQuery EasyUI 窗口 – 自定义窗口工具栏" href="/jeasyui/jeasyui-win-win2.html">
+			jEasyUI 自定义窗口工具栏			</a>
+						<a target="_top" title="jQuery EasyUI 窗口 – 窗口与布局" href="/jeasyui/jeasyui-win-win3.html">
+			jEasyUI 窗口与布局			</a>
+						<a target="_top" title="jQuery EasyUI 窗口 – 创建对话框" href="/jeasyui/jeasyui-win-dlg1.html">
+			jEasyUI 创建对话框			</a>
+						<a target="_top" title="jQuery EasyUI 窗口 – 自定义带有工具条和按钮的对话框" href="/jeasyui/jeasyui-win-dlg2.html">
+			jEasyUI 自定义对话框			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 树形菜单</h2>			<a target="_top" title="jQuery EasyUI 树形菜单 – 使用标记创建树形菜单" href="/jeasyui/jeasyui-tree-tree1.html">
+			jEasyUI 使用标记创建树形菜单			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 创建异步树形菜单" href="/jeasyui/jeasyui-tree-tree2.html">
+			jEasyUI 创建异步树形菜单			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 树形菜单添加节点" href="/jeasyui/jeasyui-tree-tree3.html">
+			jEasyUI 树形菜单添加节点			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 创建带复选框的树形菜单" href="/jeasyui/jeasyui-tree-tree4.html">
+			jEasyUI 创建带复选框的树形菜单			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 树形菜单拖放控制" href="/jeasyui/jeasyui-tree-tree5.html">
+			jEasyUI 树形菜单拖放控制			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 树形菜单加载父/子节点" href="/jeasyui/jeasyui-tree-tree6.html">
+			jEasyUI 树形菜单加载父/子节点			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 创建基础树形网格" href="/jeasyui/jeasyui-tree-treegrid1.html">
+			jEasyUI 创建基础树形网格			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 创建复杂树形网格" href="/jeasyui/jeasyui-tree-treegrid2.html">
+			jEasyUI 创建复杂树形网格			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 树形网格动态加载" href="/jeasyui/jeasyui-tree-treegrid3.html">
+			jEasyUI 树形网格动态加载			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 树形网格添加分页" href="/jeasyui/jeasyui-tree-treegrid4.html">
+			jEasyUI 树形网格添加分页			</a>
+						<a target="_top" title="jQuery EasyUI 树形菜单 – 树形网格惰性加载节点" href="/jeasyui/jeasyui-tree-treegrid5.html">
+			jEasyUI 树形网格惰性加载节点			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 表单</h2>			<a target="_top" title="jQuery EasyUI 表单 – 创建异步提交表单" href="/jeasyui/jeasyui-form-form1.html">
+			jEasyUI 创建异步提交表单			</a>
+						<a target="_top" title="jQuery EasyUI 表单 – 表单验证" href="/jeasyui/jeasyui-form-form3.html">
+			jEasyUI 表单验证			</a>
+						<a target="_top" title="jQuery EasyUI 表单 – 创建树形下拉框（ComboTree）" href="/jeasyui/jeasyui-form-form2.html">
+			jEasyUI 创建树形下拉框			</a>
+						<a target="_top" title="jQuery EasyUI 表单 – 格式化下拉框（ComboBox）" href="/jeasyui/jeasyui-form-form4.html">
+			jEasyUI 格式化下拉框			</a>
+						<a target="_top" title="jQuery EasyUI 表单 – 过滤下拉数据网格（ComboGrid）" href="/jeasyui/jeasyui-form-form5.html">
+			jEasyUI 过滤下拉数据网格			</a>
+			<br><h2 class="left"><span class="left_h2">jEasyUI</span> 参考手册</h2>			<a target="_top" title="jQuery EasyUI 插件" href="/jeasyui/jeasyui-ref-plugins.html">
+			jQuery EasyUI 插件			</a>
+						<a target="_top" title="jQuery EasyUI 扩展" href="/jeasyui/jeasyui-ref-extension.html">
+			jQuery EasyUI 扩展			</a>
+				
+		</div>
+	</div>	
+</div>

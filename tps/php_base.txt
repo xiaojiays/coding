@@ -1,0 +1,165 @@
+<div class="col left-column">
+	<div class="tab">PHP 教程</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="PHP 教程" href="/php/php-tutorial.html">
+			PHP 教程			</a>
+						<a target="_top" title="PHP 简介" href="/php/php-intro.html">
+			PHP 简介			</a>
+						<a target="_top" title="PHP 安装" href="/php/php-install.html">
+			PHP 安装			</a>
+						<a target="_top" title="PHP 语法" href="/php/php-syntax.html">
+			PHP 语法			</a>
+						<a target="_top" title="PHP 变量" href="/php/php-variables.html">
+			PHP 变量			</a>
+			<a target="_top" title="PHP  echo/print 语句" href="/php/php-echo-print.html"> PHP  echo/print </a>
+<a target="_top" title="PHP  数据类型" href="/php/php-datatypes.html"> PHP  数据类型 </a>
+<a target="_top" title="PHP  常量" href="/php/php-constants.html"> PHP  常量 </a>			<a target="_top" title="PHP 字符串变量" href="/php/php-string.html">
+			PHP 字符串			</a>
+						<a target="_top" title="PHP 运算符" href="/php/php-operators.html">
+			PHP 运算符			</a>
+						<a target="_top" title="PHP If…Else 语句" href="/php/php-if-else.html">
+			PHP If...Else			</a>
+						<a target="_top" title="PHP Switch 语句" href="/php/php-switch.html">
+			PHP Switch			</a>
+						<a target="_top" title="PHP 数组" href="/php/php-arrays.html">
+			PHP 数组			</a>
+						<a target="_top" title="PHP 数组排序" href="/php/php-arrays-sort.html">
+			PHP 数组排序			</a>
+			<a target="_top" href="/php/php-superglobals.html">
+	PHP 超级全局变量	</a>			<a target="_top" title="PHP While 循环" href="/php/php-looping.html">
+			PHP While 循环			</a>
+						<a target="_top" title="PHP For 循环" href="/php/php-looping-for.html">
+			PHP For 循环			</a>
+						<a target="_top" title="PHP 函数" href="/php/php-functions.html">
+			PHP 函数			</a>
+			<a target="_top" href="http://www.runoob.com/php/php-magic-constant.html">
+	PHP 魔术变量	</a>
+<a target="_top" href="php-namespace.html">
+	PHP 命名空间</a>
+<a target="_top" href="php-oop.html">
+	PHP 面向对象</a>
+<br><h2 class="left"><span class="left_h2">PHP</span> 表单</h2>			<a target="_top" title="PHP 表单" href="/php/php-forms.html">
+			PHP 表单			</a>
+			<a target="_top" href="/php/php-form-validation.html">PHP 表单验证</a>
+<a target="_top" href="/php/php-form-required.html">PHP 表单 - 必需字段</a>
+<a target="_top" href="/php/php-form-url-email.html">PHP 表单 - 验证邮件和URL</a>
+<a target="_top" href="/php/php-form-complete.html">PHP 完整表单实例</a>			<a target="_top" title="PHP $_GET 变量" href="/php/php-get.html">
+			PHP $_GET 变量			</a>
+						<a target="_top" title="PHP $_POST 变量" href="/php/php-post.html">
+			PHP $_POST 变量			</a>
+			<br><h2 class="left"><span class="left_h2">PHP</span> 高级教程</h2>			<a target="_top" title="PHP 多维数组" href="/php/php-arrays-multi.html">
+			PHP 多维数组			</a>
+						<a target="_top" title="PHP date() 函数" href="/php/php-date.html">
+			PHP 日期			</a>
+						<a target="_top" title="PHP include 和 require" href="/php/php-includes.html">
+			PHP 包含			</a>
+						<a target="_top" title="PHP 文件" href="/php/php-file.html">
+			PHP 文件			</a>
+						<a target="_top" title="PHP 文件上传" href="/php/php-file-upload.html">
+			PHP 文件上传			</a>
+						<a target="_top" title="PHP Cookie" href="/php/php-cookies.html">
+			PHP Cookie			</a>
+						<a target="_top" title="PHP Session" href="/php/php-sessions.html">
+			PHP Session			</a>
+						<a target="_top" title="PHP 邮件" href="/php/php-mail.html">
+			PHP E-mail			</a>
+						<a target="_top" title="PHP 安全 E-mail" href="/php/php-secure-mail.html">
+			PHP 安全 E-mail			</a>
+						<a target="_top" title="PHP 错误处理" href="/php/php-error.html">
+			PHP Error			</a>
+						<a target="_top" title="PHP 异常处理" href="/php/php-exception.html">
+			PHP Exception			</a>
+						<a target="_top" title="PHP 过滤器" href="/php/php-filter.html">
+			PHP 过滤器			</a>
+			<a target="_top" href="/php/php-filter-advanced.html">PHP 高级过滤器</a>
+<a target="_top" href="/php/php-json.html">PHP JSON</a>
+<br><h2 class="left"><span class="left_h2">PHP 7</span> 新特性</h2>
+<a target="_top" href="/php/php7-new-features.html">PHP 7 新特性</a>
+<br><h2 class="left"><span class="left_h2">PHP</span> 数据库</h2>			<a target="_top" title="PHP MySQL 简介" href="/php/php-mysql-intro.html">
+			PHP MySQL 简介			</a>
+						<a target="_top" title="PHP 连接 MySQL" href="/php/php-mysql-connect.html">
+			PHP MySQL 连接 			</a>
+						<a target="_top" title="PHP MySQL 创建数据库" href="/php/php-mysql-create.html">
+			PHP MySQL 创建数据库			</a>
+			<a target="_top" title="PHP MySQL 创建数据表" href="php-mysql-create-table.html"> PHP MySQL 创建数据表 </a>			<a target="_top" title="PHP MySQL 插入数据" href="/php/php-mysql-insert.html">
+			PHP MySQL 插入数据			</a>
+			<a target="_top" title="PHP MySQL 插入多条数据" href="php-mysql-insert-multiple.html"> PHP MySQL 插入多条数据 </a>
+<a target="_top" title="PHP MySQL  预处理语句" href="php-mysql-prepared-statements.html"> PHP MySQL 预处理语句 </a>			<a target="_top" title="PHP MySQL 读取数据" href="/php/php-mysql-select.html">
+			PHP MySQL 读取数据			</a>
+						<a target="_top" title="PHP MySQL Where 子句" href="/php/php-mysql-where.html">
+			PHP MySQL Where			</a>
+						<a target="_top" title="PHP MySQL Order By 关键词" href="/php/php-mysql-order-by.html">
+			PHP MySQL Order By			</a>
+						<a target="_top" title="PHP MySQL Update" href="/php/php-mysql-update.html">
+			PHP MySQL Update			</a>
+						<a target="_top" title="PHP MySQL Delete" href="/php/php-mysql-delete.html">
+			PHP MySQL Delete			</a>
+						<a target="_top" title="PHP 数据库 ODBC" href="/php/php-db-odbc.html">
+			PHP ODBC			</a>
+			<br><h2 class="left"><span class="left_h2">PHP</span> XML</h2>			<a target="_top" title="PHP XML Expat 解析器" href="/php/php-xml-parser-expat.html">
+			XML Expat Parser			</a>
+						<a target="_top" title="PHP XML DOM" href="/php/php-xml-dom.html">
+			XML DOM			</a>
+						<a target="_top" title="PHP XML SimpleXML" href="/php/php-xml-simplexml.html">
+			XML SimpleXML			</a>
+			<br><h2 class="left"><span class="left_h2">PHP</span> 与 AJAX</h2>			<a target="_top" title="AJAX 简介" href="/php/php-ajax-intro.html">
+			AJAX 简介			</a>
+						<a target="_top" title="PHP – AJAX 与 PHP" href="/php/php-ajax-php.html">
+			AJAX PHP			</a>
+						<a target="_top" title="PHP 实例 AJAX 与 MySQL" href="/php/php-ajax-database.html">
+			AJAX 数据库			</a>
+						<a target="_top" title="PHP 实例 AJAX 与 XML" href="/php/php-ajax-xml.html">
+			AJAX XML			</a>
+						<a target="_top" title="PHP 实例 AJAX 实时搜索" href="/php/php-ajax-livesearch.html">
+			AJAX  实时搜索			</a>
+						<a target="_top" title="PHP 实例 AJAX RSS 阅读器" href="/php/php-ajax-rss-reader.html">
+			AJAX RSS Reader			</a>
+						<a target="_top" title="PHP 实例 AJAX 投票" href="/php/php-ajax-poll.html">
+			AJAX 投票			</a>
+			<br><h2 class="left"><span class="left_h2">PHP</span> 参考手册</h2>			<a target="_top" title="PHP 5 Array 函数" href="/php/php-ref-array.html" style="background-color: rgb(150, 185, 125); font-weight: bold; color: rgb(255, 255, 255);">
+			PHP Array			</a>
+						<a target="_top" title="PHP 5 Calendar 函数" href="/php/php-ref-calendar.html">
+			PHP Calendar			</a>
+			<a target="_top" href="/php/php-ref-curl.html">PHP cURL </a>			<a target="_top" title="PHP 5 Date/Time 函数" href="/php/php-ref-date.html">
+			PHP Date			</a>
+						<a target="_top" title="PHP 5 Directory 函数" href="/php/php-ref-directory.html">
+			PHP Directory			</a>
+						<a target="_top" title="PHP Error 和 Logging 函数" href="/php/php-ref-error.html">
+			PHP Error			</a>
+						<a target="_top" title="PHP 5 Filesystem 函数" href="/php/php-ref-filesystem.html">
+			PHP Filesystem			</a>
+						<a target="_top" title="PHP Filter 函数" href="/php/php-ref-filter.html">
+			PHP Filter			</a>
+						<a target="_top" title="PHP FTP 函数" href="/php/php-ref-ftp.html">
+			PHP FTP			</a>
+						<a target="_top" title="PHP HTTP 函数" href="/php/php-ref-http.html">
+			PHP HTTP			</a>
+						<a target="_top" title="PHP Libxml 函数" href="/php/php-ref-libxml.html">
+			PHP Libxml			</a>
+						<a target="_top" title="PHP Mail 函数" href="/php/php-ref-mail.html">
+			PHP Mail			</a>
+						<a target="_top" title="PHP 5 Math 函数" href="/php/php-ref-math.html">
+			PHP Math			</a>
+						<a target="_top" title="PHP Misc. 函数" href="/php/php-ref-misc.html">
+			PHP Misc			</a>
+						<a target="_top" title="PHP 5 MySQLi 函数" href="/php/php-ref-mysqli.html">
+			PHP MySQLi			</a>
+			<a target="_top" title="PHP PDO" href="php-pdo.html"> PHP PDO </a>			<a target="_top" title="PHP 5 SimpleXML 函数" href="/php/php-ref-simplexml.html">
+			PHP SimpleXML			</a>
+						<a target="_top" title="PHP 5 String 函数" href="/php/php-ref-string.html">
+			PHP String			</a>
+						<a target="_top" title="PHP XML 函数" href="/php/php-ref-xml.html">
+			PHP XML			</a>
+						<a target="_top" title="PHP Zip File 函数" href="/php/php-ref-zip.html">
+			PHP Zip			</a>
+						<a target="_top" title="PHP 5 Timezones" href="/php/php-ref-timezones.html">
+			PHP Timezones			</a>
+						<a target="_top" title="PHP 图像处理" href="/php/php-image-gd.html">
+			PHP 图像处理			</a>
+						<a target="_top" title="PHP RESTful" href="/php/php-restful.html">
+			PHP RESTful			</a>
+				
+		</div>
+	</div>	
+</div>
